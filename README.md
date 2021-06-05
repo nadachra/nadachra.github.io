@@ -14,8 +14,6 @@
 
 ## <!--Can add more badges about builds and testing later: shields.io -->
 
----
-
 <h2>🟣 Table of Contents</h2>
 
 [Introduction](#intro) <br>
@@ -32,8 +30,6 @@
 
 <a  name="intro"/><h2>🟣 Introduction </h2></a>
 
-
-
 <blockquote>
 Currently, operations such as cataloging items and searching for items are done manually, which can be seen as a detrimental and inefficient approach especially in fast paced business markets or markets where cataloging requires expert input and results in bottlenecks when loading stock into their inventory management systems. Bean Bag is an inventory management system that utilizes image recognition technology to optimize and bring forth a new approach to automate and accelerate item cataloging.
 <br><br>
@@ -44,6 +40,7 @@ This application would assist in multiple areas such as:
 - condition assessment of secondhand computer parts, and more.
 
 A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.
+
 </blockquote>
 
 ---
