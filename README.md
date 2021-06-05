@@ -1,4 +1,3 @@
-
 <h1 align="center">Bean Bag </h1>
 <br>
 
@@ -66,10 +65,10 @@ The technologies used to build the <b>Bean Bag </b> system.
 <!--TODO: Add correct tech to correct sub headings -->
 
 <h4>Backend</h4>
-<p> <img alt=".Net" src="https://img.shields.io/badge/ASP.NET Core-5.0-5C2D91?style=flat-round&logo=.net&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-round&logo=c-sharp&logoColor=white"/></p>
+<p> <img alt=".Net" src="https://img.shields.io/badge/ASP.NET Core-5.0-5C2D91?style=flat-round&logo=.net&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-round&logo=c-sharp&logoColor=white"/></p>
 
 <h4>Frontend - Web App</h4>
-<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-round&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-round&logo=CSS3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-round=javascript&logoColor=%23F7DF1E"/><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-round&logo=bootstrap&logoColor=white"/></p>
+<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-round&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-round&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-round=javascript&logoColor=%23F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-round&logo=bootstrap&logoColor=white"/></p>
 
 <h4>AI and Analytics</h4>
 <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-round=python&logoColor=white"/>
@@ -113,16 +112,14 @@ master ( build )
 
 ---
 
-<a name="management"/><h3 align="center">Project Management Tools</h3></a>
+<a name="management"/><h2> 🟣 Project Management Tools</h3></a>
 
 The project management applications and communication techniques used for the <b>Bean Bag</b> project.
 
-- :pushpin: [GitHub](https://github.com/COS301-SE-2021/Bean-Bag/projects)
-
-- :pushpin: [Jira](https://polariscapestone.atlassian.net/jira/software/projects/BB301/boards/1)
-- :email: polariscapstone301@gmail.com
-
+- [GitHub](https://github.com/COS301-SE-2021/Bean-Bag/projects)
+-  [Jira](https://polariscapestone.atlassian.net/jira/software/projects/BB301/boards/1)
 - [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GJvuD5PM)
+- :email: polariscapstone301@gmail.com
 
 ---
 
@@ -130,14 +127,13 @@ The project management applications and communication techniques used for the <b
 All neccessary documentation related to the <b> Bean Bag</b> project.
 
 -  [Software Requirements Specification Document](https://drive.google.com/drive/u/1/folders/1aOf_vzdIkNxeur8eyyou5kn9FHSUVCod)
-
-- [Installation Guide](https://www.overleaf.com/read/) (In progress)
+- [Installation Guide](https://www.overleaf.com/read/) 
 
 ---
 
 <a name="D2"/><h2>🟣 Demo Videos</h3></a>
 
--  [Demo Video 1](https://drive.google.com/drive/u/1/folders/18UvquRIEvCKuZyfEESXBXh2mFWG5_VYl)
+-  [Demo Video 1: 4 June 2021](https://drive.google.com/drive/u/1/folders/18UvquRIEvCKuZyfEESXBXh2mFWG5_VYl)
 -  [Demo Video 2](https://drive.google.com/open?id=)
 -  [Demo Video 3](https://drive.google.com/open?id=)
 - [Demo Video 4](https://drive.google.com/open?id=)
