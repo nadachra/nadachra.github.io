@@ -48,8 +48,8 @@ A key feature of Bean Bag is that the recognizer can be trained on new item type
 <a name="team"/><h2>🟣 The Team</h2></a>
 A short overview of the Polaris team developing the <b>Bean Bag </b> project.
 
-> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjUNDo9-njTQ/profile-displayphoto-shrink_400_400/0/1618493072051?e=1628121600&v=beta&t=9zlGPRU_BkeHp5Vr_4FfpGyOI35NGBgxbh4bzZSFqBc" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Munashe Muganiwa</h3><p> ‎ Backend Development</p> > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-square&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
-
+> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjUNDo9-njTQ/profile-displayphoto-shrink_400_400/0/1618493072051?e=1628121600&v=beta&t=9zlGPRU_BkeHp5Vr_4FfpGyOI35NGBgxbh4bzZSFqBc" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Munashe Muganiwa</h3><p> ‎ Backend Development</p>
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-square&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 </p>
 
 > - <i> 3rd year BIT student</i>
