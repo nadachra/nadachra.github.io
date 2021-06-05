@@ -84,40 +84,34 @@ The technologies used to build the <b>Bean Bag </b> system.
 <a name="structure"/><h2>🟣 Github Structure</h3></a>
 The Bean Bag project will make use of a mono-repo. All code and assets related to this project will be available in one repo which is the Bean-Bag repository. This ensures all code is compact and easily avaliable from a single source.
 
-<h4>Branching Strategy</h4>
+<h4  align="center"><u> Branching Strategy </u></h4>
 
-master ( build )
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− hotfix
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− develop ( build )
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− backend−develop ( build )
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− module-develop ( build )
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− feature-module-feature_name
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;− frontend−develop ( build )
+    master ( build )
+    − hotfix
+      - develop ( build )
+            − backend−develop ( build )
+                  − module-develop ( build )
+                        − feature-module-feature_name
+            − frontend−develop ( build )
 
-<h4 align="center">Flow Management</h4>
+<h4 align="center"><u> Flow Management</u> </h4>
 
 1.  master - this branch contains production code. All development code is merged into master in sometime
 2.  hotfix - hotfix branches are necessary to act immediately upon an undesired status of master.
 3.  develop - this branch contains pre-production code.
 4.  backend-develop - this branch contains pre-production backend code.
 5.  module-develop- this branch contains the backend code for specific subsystems/modules in the system. When the features from the backend are complete, they are merged into module-develop.
-6.  feature-module-feature_name - this branch is used to develop new backend features for the upcoming releases.
+6.  feature-module-feature_name - this branch is used to develop new backend features for a specific module.
 7.  frontend-develop -this branch contains pre-production front-end code.
 
 ---
 
 <a name="management"/><h2> 🟣 Project Management Tools</h3></a>
 
-The project management applications and communication techniques used for the <b>Bean Bag</b> project.
+The project management applications and communication techniques used for the <b>Bean Bag</b> project. We contacted the clients using a team email and had conferences and discussions on discord. Github project boards as well as Jira for issuing tickets and backlog grooming as well.
 
+- [Jira](https://polariscapestone.atlassian.net/jira/software/projects/BB301/boards/1)
 - [GitHub](https://github.com/COS301-SE-2021/Bean-Bag/projects)
--  [Jira](https://polariscapestone.atlassian.net/jira/software/projects/BB301/boards/1)
 - [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GJvuD5PM)
 - :email: polariscapstone301@gmail.com
 
@@ -126,16 +120,16 @@ The project management applications and communication techniques used for the <b
 <a name="D1"/><h2>🟣 Documentation</h3></a>
 All neccessary documentation related to the <b> Bean Bag</b> project.
 
--  [Software Requirements Specification Document](https://drive.google.com/drive/u/1/folders/1aOf_vzdIkNxeur8eyyou5kn9FHSUVCod)
-- [Installation Guide](https://www.overleaf.com/read/) 
+- [Software Requirements Specification Document](https://drive.google.com/drive/u/1/folders/1aOf_vzdIkNxeur8eyyou5kn9FHSUVCod)
+- [Installation Guide](https://www.overleaf.com/read/)
 
 ---
 
 <a name="D2"/><h2>🟣 Demo Videos</h3></a>
 
--  [Demo Video 1: 4 June 2021](https://drive.google.com/drive/u/1/folders/18UvquRIEvCKuZyfEESXBXh2mFWG5_VYl)
--  [Demo Video 2](https://drive.google.com/open?id=)
--  [Demo Video 3](https://drive.google.com/open?id=)
+- [Demo Video 1 - 4 June 2021](https://drive.google.com/drive/u/1/folders/18UvquRIEvCKuZyfEESXBXh2mFWG5_VYl)
+- [Demo Video 2](https://drive.google.com/open?id=)
+- [Demo Video 3](https://drive.google.com/open?id=)
 - [Demo Video 4](https://drive.google.com/open?id=)
 
 ---
