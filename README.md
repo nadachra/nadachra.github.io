@@ -3,13 +3,12 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/COS301-SE-2021/Bean-Bag?style=flat-square&)](https://github.com/COS301-SE-2021/Bean-Bag/network) [![GitHub stars](https://img.shields.io/github/stars/COS301-SE-2021/Bean-Bag?style=flat-square&)](https://github.com/COS301-SE-2021/Bean-Bag/stargazers) [![GitHub issues](https://img.shields.io/github/contributors/COS301-SE-2021/Bean-Bag?style=flat-square&)](https://github.com/COS301-SE-2021/Bean-Bag/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/COS301-SE-2021/Bean-Bag?style=flat-square&)](https://github.com/COS301-SE-2021/Bean-Bag/issues)
-![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fgithub.com%2FCOS301-SE-2021%2FBean-Bag%2F?style=flat-square&)
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788271158-bb7bc699e2e1865de72a0c39)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/COS301-SE-2021/Bean-Bag)
-![example workflow](https://github.com/COS301-SE-2021/Bean-Bag/actions/workflows/dotnet.yml/badge.svg?style=flat-square&)
+![Security Headers](https://img.shields.io/security-headers?style=flat-square&url=https%3A%2F%2Fgithub.com%2FCOS301-SE-2021%2FBean-Bag%2F)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788271158-bb7bc699e2e1865de72a0c39?style=flat-square&)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/COS301-SE-2021/Bean-Bag?style=flat-square&)
+![example workflow](https://github.com/COS301-SE-2021/Bean-Bag/actions/workflows/dotnet.yml/badge.svg)
 
 <a href="https://ibb.co/mHHgTm0"><img src="https://i.ibb.co/RCCdb1N/cc.png" alt="cc" border="0"></a><br /><a target='_blank' href=''></a><h5 align="left"> Developed by Polaris for <a href="www.AgileBridge.co.za" >Agile Bridge</a></h5>
-<br>
 
 <!--[![Coverage Status](https://coveralls.io/repos/github/COS301-SE-2021/Bean-Bag/badge.svg?branch=main)](https://coveralls.io/github/COS301-SE-2021/Bean-Bag?branch=master)!--->
 
@@ -17,8 +16,7 @@
 
 ---
 
-<center>
-<h2>Table of Contents</h2>
+<h2>🟣 Table of Contents</h2>
 
 [Introduction](#intro) <br>
 [The Team](#team)<br>
@@ -30,21 +28,23 @@
 [Documentation](#D1)<br>
 [Demo Videos](#D2)
 
-</center>
-
 ---
 
 <a  name="intro"/><h2>🟣 Introduction </h2></a>
 
+
+
+<blockquote>
 Currently, operations such as cataloging items and searching for items are done manually, which can be seen as a detrimental and inefficient approach especially in fast paced business markets or markets where cataloging requires expert input and results in bottlenecks when loading stock into their inventory management systems. Bean Bag is an inventory management system that utilizes image recognition technology to optimize and bring forth a new approach to automate and accelerate item cataloging.
 <br><br>
 <b>Bean Bag</b> is an inventory management system that uses image recognition to catalog stock items.<br>
-This application would assist in multiple areas such as:<br>
+This application would assist in multiple areas such as:
 
-- the cataloging of secondhand clothing and apparel,<br>
-- condition assessment of secondhand computer parts, and more.<br>
+- the cataloging of secondhand clothing and apparel,
+- condition assessment of secondhand computer parts, and more.
 
 A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.
+</blockquote>
 
 ---
 
