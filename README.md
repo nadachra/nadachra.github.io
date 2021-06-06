@@ -1,4 +1,3 @@
-
 <h1 align="center">Bean Bag </h1>
 <br>
 
@@ -47,35 +46,35 @@ A key feature of Bean Bag is that the recognizer can be trained on new item type
 <a name="team"/><h2>🟣 The Team</h2></a>
 A short overview of the Polaris team developing the <b>Bean Bag </b> project.
 
-> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQFi_VuyzJsbQQ/profile-displayphoto-shrink_200_200/0/1618521179149?e=1623888000&v=beta&t=tYFv7oSUDzg_I-FSg9SBR9aTI6uAYDAEUejwMbbeq5g" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Reno Davids</h3><p><code> ‎ Team Leader, Backend Development</code> </p> 
+> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQFi_VuyzJsbQQ/profile-displayphoto-shrink_200_200/0/1618521179149?e=1623888000&v=beta&t=tYFv7oSUDzg_I-FSg9SBR9aTI6uAYDAEUejwMbbeq5g" alt="drawing" width="90"/></img> <h3> ‎ ‎‎Reno Davids</h3><p><code> ‎ Team Leader, Backend Development</code> </p> 
 > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-round&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-round&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 >
 > - <i> 3rd year BIT student</i>
 > - <i>Skills </i>-Brainstorming, Creative thinking, Mobile App Dev, Programming (HTML, C++, JAVA, SQL, PHP, Node, React, Delphi, Python), Mathematical thinker.
 > - <i>Interests</i> - Hiking, philosophy, space exploration, competitive gaming, taekwando.
 ---
-> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQHaGBr2eZOt-g/profile-displayphoto-shrink_200_200/0/1618527501276?e=1623888000&v=beta&t=yNfPOUdlNDOjc3CsRqLm-Zsl8ES99AJIt_7vvhc3CDU" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Nada Chraf</h3><p><code> ‎ Frontend and Backend Integration, Testing</p></code>
+> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQHaGBr2eZOt-g/profile-displayphoto-shrink_200_200/0/1618527501276?e=1623888000&v=beta&t=yNfPOUdlNDOjc3CsRqLm-Zsl8ES99AJIt_7vvhc3CDU" alt="drawing" width="90"/></img> <h3> ‎ ‎‎Nada Chraf</h3><p><code> ‎ Frontend and Backend Integration, Testing</p></code>
  > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-round&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-round&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 >
 > - <i> 3rd year BIT student</i>
 > - <i>Skills </i>-Brainstorming, Creative thinking, Mobile App Dev, Programming (HTML, C++, JAVA, SQL, PHP, Node, React, Delphi, Python), Mathematical thinker.
 > - <i>Interests</i> - Hiking, philosophy, space exploration, competitive gaming, taekwando.
 ---
-> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjUNDo9-njTQ/profile-displayphoto-shrink_400_400/0/1618493072051?e=1628121600&v=beta&t=9zlGPRU_BkeHp5Vr_4FfpGyOI35NGBgxbh4bzZSFqBc" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Munashe Muganiwa</h3><p><code> ‎ Backend Development</p></code> 
+> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjUNDo9-njTQ/profile-displayphoto-shrink_400_400/0/1618493072051?e=1628121600&v=beta&t=9zlGPRU_BkeHp5Vr_4FfpGyOI35NGBgxbh4bzZSFqBc" alt="drawing" width="90"/></img> <h3> ‎ ‎‎Munashe Muganiwa</h3><p><code> ‎ Backend Development</p></code> 
 > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-round&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-round&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 >
 > - <i> 3rd year BIT student</i>
 > - <i>Skills </i>-Brainstorming, Creative thinking, Mobile App Dev, Programming (HTML, C++, JAVA, SQL, PHP, Node, React, Delphi, Python), Mathematical thinker.
 > - <i>Interests</i> - Hiking, philosophy, space exploration, competitive gaming, taekwando.
 ---
-> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQH849guxG7z_Q/profile-displayphoto-shrink_400_400/0/1621422993184?e=1627516800&v=beta&t=y-bHpXsM0ia0P4BGHG94jnptNknCyDtuWwHWaOTS6sg" alt="drawing" width="80"/></img> <h3> ‎ ‎‎Suzel Alberts</h3><p><code> ‎ Backend Development</p></code>
+> <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQH849guxG7z_Q/profile-displayphoto-shrink_400_400/0/1621422993184?e=1627516800&v=beta&t=y-bHpXsM0ia0P4BGHG94jnptNknCyDtuWwHWaOTS6sg" alt="drawing" width="90"/></img> <h3> ‎ ‎‎Suzel Alberts</h3><p><code> ‎ Backend Development</p></code>
 > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-round&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-round&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 >
 > - <i> 3rd year BIT student</i>
 > - <i>Skills </i>-Brainstorming, Creative thinking, Mobile App Dev, Programming (HTML, C++, JAVA, SQL, PHP, Node, React, Delphi, Python), Mathematical thinker.
 > - <i>Interests</i> - Hiking, philosophy, space exploration, competitive gaming, taekwando.
 ---
-> <img align="left" src="https://images-ext-2.discordapp.net/external/5goYtfojwsC1a-2zge1bvCIP2dwT0eKh1Phd10srgsg/%3Fe%3D1624492800%26v%3Dbeta%26t%3D1pvzyTMBOFy6FEL2-Q3nm3bM3lxsbufpK_atFJ3nm9U/https/media-exp1.licdn.com/dms/image/C4D03AQEceAx_HJkw9A/profile-displayphoto-shrink_200_200/0/1613219411295" alt="drawing" width="80"/></img> <h3> ‎ Sphesihle Mtwa</h3><p><code> ‎ UX/UI Design, Frontend Development</p></code>
+> <img align="left" src="https://images-ext-2.discordapp.net/external/5goYtfojwsC1a-2zge1bvCIP2dwT0eKh1Phd10srgsg/%3Fe%3D1624492800%26v%3Dbeta%26t%3D1pvzyTMBOFy6FEL2-Q3nm3bM3lxsbufpK_atFJ3nm9U/https/media-exp1.licdn.com/dms/image/C4D03AQEceAx_HJkw9A/profile-displayphoto-shrink_200_200/0/1613219411295" alt="drawing" width="90"/></img> <h3> ‎ Sphesihle Mtwa</h3><p><code> ‎ UX/UI Design, Frontend Development</p></code>
 > [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-round&logo=github&logoColor=white)](https://github.com/u18030948) <t/>[![PersonalProfile](https://img.shields.io/badge/ProfilePage-4285F4?style=flat-round&logo&logoColor=white)](https://gitusername.github.io/) <t/>[![LinkedIn](https://img.shields.io/badge/linked-in-369?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-muganiwa-03b852b4/)
 >
 > - <i> 3rd year BIT student</i>
