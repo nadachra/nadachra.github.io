@@ -32,7 +32,6 @@
 
 <a  name="intro"/><h2>🟣 Introduction </h2></a>
 
-<blockquote>
 <code>
 Currently, operations such as cataloging items and searching for items are done manually, which can be seen as a detrimental and inefficient approach especially in fast paced business markets or markets where cataloging requires expert input and results in bottlenecks when loading stock into their inventory management systems.
 <br><br>
@@ -42,7 +41,7 @@ This application would assist in multiple areas such as:
 - the cataloging of secondhand clothing and apparel,
 - condition assessment of secondhand computer parts, and more.
 
-A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.</code></blockquote>
+A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.</code>
 
 ---
 
@@ -147,7 +146,6 @@ How to install and execute the Bean-Bag system:
         -
     3. Clone the Bean-Bag repository into your local directory.
     4.Launch the Bean-Bag.sln file.
-
 
 ---
 
