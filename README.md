@@ -33,6 +33,7 @@
 <a  name="intro"/><h2>🟣 Introduction </h2></a>
 
 <blockquote>
+<code>
 Currently, operations such as cataloging items and searching for items are done manually, which can be seen as a detrimental and inefficient approach especially in fast paced business markets or markets where cataloging requires expert input and results in bottlenecks when loading stock into their inventory management systems.
 <br><br>
 <b>Bean Bag</b> is an inventory management system that utilizes image recognition technology to optimize and bring forth a new approach to automate and accelerate item cataloging.<br>
@@ -41,9 +42,7 @@ This application would assist in multiple areas such as:
 - the cataloging of secondhand clothing and apparel,
 - condition assessment of secondhand computer parts, and more.
 
-A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.
-
-</blockquote>
+A key feature of Bean Bag is that the recognizer can be trained on new item types thereby providing flexibility and enabling the application to be tailored to the user depending on the type of items the user catalogs into their inventory.</code></blockquote>
 
 ---
 
@@ -128,13 +127,13 @@ The Bean Bag project will make use of a mono-repo. All code and assets related t
 
 <h4 align="center"> Flow Management </h4>
 
--  <b>master</b> - this branch contains production code. All development code is merged into master in sometime
--  <b>hotfix</b> - hotfix branches are necessary to act immediately upon an undesired status of master.
--  <b>develop </b>- this branch contains pre-production code.
--  <b>backend-develop</b> - this branch contains pre-production backend code.
--  <b>module-develop</b>- this branch contains the backend code for specific subsystems/modules in the system. When the features from the backend are complete, they are merged into module-develop.
--  <b>feature-module-feature_name</b> - this branch is used to develop new backend features for a specific module.
--  <b>frontend-develop</b> -this branch contains pre-production front-end code.
+- <b>master</b> - this branch contains production code. All development code is merged into master in sometime
+- <b>hotfix</b> - hotfix branches are necessary to act immediately upon an undesired status of master.
+- <b>develop </b>- this branch contains pre-production code.
+- <b>backend-develop</b> - this branch contains pre-production backend code.
+- <b>module-develop</b>- this branch contains the backend code for specific subsystems/modules in the system. When the features from the backend are complete, they are merged into module-develop.
+- <b>feature-module-feature_name</b> - this branch is used to develop new backend features for a specific module.
+- <b>frontend-develop</b> -this branch contains pre-production front-end code.
 
 ---
 
@@ -145,10 +144,11 @@ How to install and execute the Bean-Bag system:
     2. Install the required software in Visual Studio:
         -
         -
-        - 
+        -
     3. Clone the Bean-Bag repository into your local directory.
     4.Launch the Bean-Bag.sln file.
-           
+
+
 ---
 
 <a name="testing"/><h2> 🟣 Testing</h2></a>
@@ -176,7 +176,7 @@ The project management applications and communication techniques used for the <b
 
 - [Jira](https://polariscapestone.atlassian.net/jira/software/projects/BB301/boards/1)
 - [GitHub](https://github.com/COS301-SE-2021/Bean-Bag/projects)
--  [MS Teams](https://github.com/COS301-SE-2021/Bean-Bag/projects)
+- [MS Teams](https://github.com/COS301-SE-2021/Bean-Bag/projects)
 - [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GJvuD5PM)
 - :email: polariscapstone301@gmail.com
 
